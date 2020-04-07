@@ -23,7 +23,7 @@ In series of subjective tests with over 100 participants, the influence of three
 
 
 All the dataset material can be found in the following link: 
-Link: TBD
+Link: TBA
 
 
 The dataset has four folders as follows:
