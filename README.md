@@ -1,10 +1,22 @@
 # Cloud-Gaming-Video-Dataset
  
+### Introduction
+
+
+For delay sensitive cloud gaming service, currently, most of the providers (e.g. Geforce Now and Parsec) use the hardware accelerated implementation of H.264/MPEG-AVC standard. CGVDS is created using hardware accelerated implementation of H.264/MPEG-AVC (NVENC) with a wide spread of video games and encoding parameters and reference videos captured at 60 fps using Fraps. Table 1 gives a short overview of the three available gaming video quality datasets compared to the CGVDS dataset. 
+
+<img src="Datasets.png" width="650" height="400"> 
+
+
+In series of subjective tests with over 100 participants, the influence of three important encoding parameters using 15 different games on the perceived video quality was assessed. The subjective tests were conducted as a passive viewing-and-listening test as described in ITU-T Rec. P.809 [15]. In order to avoid fatigue due to lengthy subjective tests, five studies were designed, each with 3 games and four different bitrate levels and two or three resolution and frame 
+
+
+### Access to the dataset
+
 
 All the dataset material can be found in the following link: 
 Link: https://drive.google.com/open?id=1wfiuShlLcbpjMkQ3ZkIlJAYcZeEwlifl 
 
-**It has to be noted that some videos are not publicly available due to unclear copy-right state. 
 
 The dataset has four folders as follows:
 
