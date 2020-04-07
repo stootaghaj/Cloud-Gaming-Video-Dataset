@@ -8,7 +8,9 @@ For delay sensitive cloud gaming service, currently, most of the providers (e.g.
 <img src="Datasets.png" width="640" height="200"> 
 
 
-In series of subjective tests with over 100 participants, the influence of three important encoding parameters using 15 different games on the perceived video quality was assessed. The subjective tests were conducted as a passive viewing-and-listening test as described in ITU-T Rec. P.809 [15]. In order to avoid fatigue due to lengthy subjective tests, five studies were designed, each with 3 games and four different bitrate levels and two or three resolution and frame rate levels.
+In series of subjective tests with over 100 participants, the influence of three important encoding parameters using 15 different games on the perceived video quality was assessed. The subjective tests were conducted as a passive viewing-and-listening test as described in ITU-T Rec. P.809 [15]. In order to avoid fatigue due to lengthy subjective tests, five studies were designed, each with 3 games and four different bitrate levels and two or three resolution and frame rate levels. Table 2 gives a summary of encoding parameters used to create the encoded videos and details on bitrate per framerate and resolution is given in Table 3. 
+
+
 
 <img src="Summary.png" width="400" height="200"> 
 
@@ -21,7 +23,7 @@ In series of subjective tests with over 100 participants, the influence of three
 
 
 All the dataset material can be found in the following link: 
-Link: https://drive.google.com/open?id=1wfiuShlLcbpjMkQ3ZkIlJAYcZeEwlifl 
+Link: TBD
 
 
 The dataset has four folders as follows:
