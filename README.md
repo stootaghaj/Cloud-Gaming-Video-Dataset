@@ -44,3 +44,10 @@ ffmpeg -y -r ${framerate} -s:v 1920x1080 -i ${file} -r ${framerate} -c:v h264_nv
 In order to rescale the videos to 1080p we used bilinear method as follows:
 
 ffmpeg -y -i ${file%.*}.mp4 -filter:v scale=1920:1080 -sws_flags "bilinear" -vcodec rawvideo -pix_fmt yuv420p -f rawvideo PATH/${file%.*}.yuv
+
+
+### Copyrights 
+
+It has to be noted the copyrights of the shared videos follow the same right that are defined by owners. We summarize them in the link below:
+https://drive.google.com/file/d/17dqofyMjlbqPcoS7O1a55ySdiPWjRx01/view?usp=sharing
+All videos that are shared to public are allowed to be shared for non-commercial usage based on our understanding of the copyright notice of publishers/oweners or based on the direct response from the oweners/publishers. It has to be noted that we try to keep checking the copyrights of the games every six months for 2 years and avoid any infringements of the intellectual property rights. 
