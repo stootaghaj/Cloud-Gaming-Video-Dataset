@@ -1,5 +1,7 @@
 # Cloud-Gaming-Video-Dataset
  
+## Please contact saman.zadtootaghaj@qu.tu-berlin.de to get access to the dataset.
+
 ### Introduction
 
 
