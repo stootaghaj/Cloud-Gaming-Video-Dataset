@@ -1,6 +1,6 @@
 # Cloud-Gaming-Video-Dataset
  
-## Please contact saman.zadtootaghaj@qu.tu-berlin.de to get access to the dataset.
+## Please contact saman.zadtootaghaj@qu.tu-berlin.de if you have any question about the dataset.
 
 ### Introduction
 
@@ -24,8 +24,8 @@ In series of subjective tests with over 100 participants, the influence of three
 ### Access to the dataset
 
 
-All the dataset material can be found in the following link: 
-Link: TBA
+All the dataset material (except the individual ratings) can be found in the following link: 
+Link: https://drive.google.com/drive/folders/1S2JA55EA8kD-MRWX1oDWWKDj0qXmdmnA?usp=sharing
 
 
 The dataset has four folders as follows:
